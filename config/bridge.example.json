@@ -1,0 +1,7 @@
+{
+  "port": 3092,
+  "backend": "native",
+  "native": { "projectId": "REPLACE_WITH_ACTUAL_PROJECT_ID" },
+  "allowedWorkspaces": ["/absolute/path/to/dedicated/workspace"],
+  "target": { "model": "gemini-4-hydrogen-high", "effort": "high", "label": "Gemini 4 Hydrogen (High)", "approved": true }
+}
